@@ -1,3 +1,3 @@
 # Repository
 
-Canonical GitHub repository: [jonathan-oralart/show-and-tell](https://github.com/jonathan-oralart/show-and-tell).
+Canonical GitHub repository: [oralart-infra/show-and-tell](https://github.com/oralart-infra/show-and-tell).

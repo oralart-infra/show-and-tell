@@ -8,7 +8,7 @@ Show & Tell is a macOS menu bar app for giving visual feedback to Claude Code. P
 
 ## Install
 
-Download the latest `ShowAndTell-x.y.z.dmg` from [Releases](https://github.com/jonathan-oralart/show-and-tell/releases/latest), open it and drag Show & Tell to Applications. It updates itself.
+Download the latest `ShowAndTell-x.y.z.dmg` from [Releases](https://github.com/oralart-infra/show-and-tell/releases/latest), open it and drag Show & Tell to Applications. It updates itself.
 
 Requires macOS 26.4 and the [Claude desktop app](https://claude.ai/download), or the Codex app if you choose to send there in Settings. On first launch Show & Tell asks for:
 

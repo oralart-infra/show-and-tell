@@ -5,7 +5,7 @@
 set -euo pipefail
 
 VERSION=${1:?Usage: scripts/release.sh <version, e.g. 1.0.0>}
-REPO=jonathan-oralart/show-and-tell
+REPO=oralart-infra/show-and-tell
 NOTARY_PROFILE=snapback
 cd "$(dirname "$0")/.."
 
